@@ -8,8 +8,8 @@ def solve():
     price_marker = price_pen + 7
     total = X * price_pencil + Y * price_pen + Z * price_marker
     print(total)
-   
 
+    
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
     solve()
